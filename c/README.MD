@@ -17,6 +17,7 @@
 - [x] [`11.结构体，联合体`](./11.struct.md)
 - [x] [`12.动态内存管理`](./12.dynamic-memory-management.md)
 - [x] [`13.零碎知识`](./13.importantce.md)
+- [x] [`14.文件存储操作`](./14.file.md)
 - [x] [`math.h库`](./.h.math.md 	)
 - [x] [`string.h库`](./.h.string.md)
 
